@@ -31,3 +31,35 @@ Progettato per chi ama un’interfaccia minimal ma d’impatto.
 ## ⚙️ Installazione
 
 1. Scarica il file del tema:
+
+2. Rinominalo in: theme.nss
+
+3. Copialo nella cartella **imports** di Nilesoft Shell: C:\Users<tuo_nome>\AppData\Local\Nilesoft\Shell\Imports
+
+4. Riavvia Nilesoft Shell oppure esegui: shell reload
+
+5. Il tema verrà applicato automaticamente.  
+Se non appare subito, apri il menu con **clic destro sul desktop**.
+
+---
+
+## 📸 Anteprima
+<p align="center">
+<img src="preview.png" alt="Anteprima Luca Neon Theme" width="700">
+</p>
+
+---
+
+## 👤 Autore
+**Luca Drogo**  
+🔗 [GitHub Profile](https://github.com/tuo-username)
+
+---
+
+### 📄 Licenza
+Rilasciato gratuitamente per uso personale.  
+È consentita la modifica e la ridistribuzione, citando l’autore originale.
+
+---
+
+
