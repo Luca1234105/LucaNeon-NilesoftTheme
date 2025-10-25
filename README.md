@@ -52,7 +52,7 @@ Se non appare subito, apri il menu con **clic destro sul desktop**.
 
 ## 👤 Autore
 **Luca Drogo**  
-🔗 [GitHub Profile](https://github.com/tuo-username)
+🔗 [GitHub Profile](https://github.com/Luca1234105)
 
 ---
 
