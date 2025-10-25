@@ -45,7 +45,7 @@ Se non appare subito, apri il menu con **clic destro sul desktop**.
 
 ## 📸 Anteprima
 <p align="center">
-<img src="preview.png" alt="Anteprima Luca Neon Theme" width="700">
+<img src="Preview2.png" alt="Anteprima Luca Neon Theme" width="700">
 </p>
 
 ---
